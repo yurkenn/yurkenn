@@ -1,6 +1,6 @@
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Oğuz, im working on Front-End web developing. I am sharing my projects in here. I'm currently learning Javascpript with <a href="https://www.patika.dev/">patika.dev</a>
+I'm Oğuz, im working on Full Stack Web Developing. I am sharing my projects in here. I'm currently learning React.js with <a href="https://www.patika.dev/">patika.dev</a>
 . 
 <h3 align="center">Connect with me:</h3>
 
