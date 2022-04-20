@@ -1,4 +1,8 @@
-### Hi, Welcome To My Github Profile 👋 👋 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Oğuz+Yürken&center=true&size=25">
+  </a>
+</h1>
 
 I'm Oğuz, im working on Full Stack Web Developing. I am sharing my projects in here. I'm currently learning React.js with <a href="https://www.patika.dev/">patika.dev</a>
 . 
