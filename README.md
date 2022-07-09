@@ -5,7 +5,7 @@
 </h1>
 
 I'm Oğuz, im working on FrontEnd and Mobile Developing. I am sharing my projects in here. I'm currently learning React.js and React Native
-. 
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
