@@ -1,35 +1,38 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'am+Oğuz&center=true&size=25">
-  </a>
-</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oğuz Yürken
+===================================================================================================================================
 
-I'm Oğuz, I'm working on FrontEnd and Mobile Developing. I am sharing my projects in here. I'm currently developing React Native
+Mobile Developer
+----------------
 
-<h3 align="center">Connect with me:</h3>
+I studied Economics. After graduating from university, I started learning to code. I started with HTML CSS, but I have found a passion for mobile development. I'm developing mobile apps with React Native.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yurkenn&color=green" alt="yurkenn :: Profile Stats"></a>
-<a href="mailto:oguz.yurken@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oguz.yurken@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/oğuzyürken/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@oğuzyürken-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/yurkenowl"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yurkenowl?style=social"></a>
+* 🌍  I'm based in Edirne , Turkey
+* ✉️  You can contact me at [oguz.yurken@gmail.com](mailto:oguz.yurken@gmail.com)
+* 🚀  I'm currently working on [personal projects](http://github.com/yurkenn?tab=repositories)
+* 🧠  I'm learning React Native and TypeScript
+* 🤝  I'm open to collaborating on interesting React Native projects
+
+### Skills
 
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.javascript.com/"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/> </a>
-<a href="https://css-tricks.com/">  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-css-coding-and-development-flat-flat-juicy-fish-2.png" width="40" height="40"/> </a>
-<a href="https://tr.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40" height="40" /> </a> 
-<a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
 
+### Socials
 
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yurkenn&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurkenn&layout=compact&theme=tokyonight" height="180">
-  
-</p>
+<p align="left"> <a href="https://discord.com/users/yurken#9245" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/yurkenn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oğuzyürken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@oguz.yurken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yurkenn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yurkenn&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
