@@ -6,7 +6,6 @@ Mobile Developer
 
 I studied Economics. After graduating from university, I started learning to code. I started with HTML CSS, but I have found a passion for mobile development. I'm developing mobile apps with React Native.
 
-* 🌍  I'm based in Edirne , Turkey
 * ✉️  You can contact me at [oguz.yurken@gmail.com](mailto:oguz.yurken@gmail.com)
 * 🚀  I'm currently working on [personal projects](http://github.com/yurkenn?tab=repositories)
 * 🧠  I'm learning React Native and TypeScript
